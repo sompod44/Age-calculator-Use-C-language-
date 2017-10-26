@@ -1,4 +1,8 @@
 //Bismilahir Rahmanir Rahim
+/*
+Creator : sompod
+Date : 01/05/2017
+*/
 #include<stdio.h>
 #include<conio.h>
 void main()
